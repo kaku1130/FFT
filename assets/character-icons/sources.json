@@ -1,0 +1,80 @@
+[
+  {
+    "Character": "Ramza",
+    "File": "ramza.png",
+    "Source": "https://img.game8.co/4241432/2e867fcb63072d4f60ae7b39c7355ca6.png/show",
+    "Dimensions": "112x102"
+  },
+  {
+    "Character": "Agrias",
+    "File": "agrias.png",
+    "Source": "https://img.game8.co/4241421/9c2061a2af39611a84555253808c0ac8.png/show",
+    "Dimensions": "112x102"
+  },
+  {
+    "Character": "Mustadio",
+    "File": "mustadio.png",
+    "Source": "https://img.game8.co/4241433/c85cf80c6f9e93354f399a2d27068d82.png/show",
+    "Dimensions": "112x102"
+  },
+  {
+    "Character": "Boco",
+    "File": "boco.png",
+    "Source": "https://img.game8.co/4295194/6e137627adf91a8802d68b2711c79519.png/show",
+    "Dimensions": "112x102"
+  },
+  {
+    "Character": "Marach",
+    "File": "marach.png",
+    "Source": "https://img.game8.co/4293429/b8bdaa32ed4cc43e21ad3bc635a496e2.png/show",
+    "Dimensions": "112x102"
+  },
+  {
+    "Character": "Rapha",
+    "File": "rapha.png",
+    "Source": "https://img.game8.co/4293426/055a06a35982f3662d9835a2f4274f72.png/show",
+    "Dimensions": "112x102"
+  },
+  {
+    "Character": "Orlandeau",
+    "File": "orlandeau.png",
+    "Source": "https://img.game8.co/4241420/7732b695b9322c4abb7fad154d82942c.png/show",
+    "Dimensions": "112x102"
+  },
+  {
+    "Character": "Reis",
+    "File": "reis.png",
+    "Source": "https://img.game8.co/4293428/188b36a882194cc0ec0ba06ba756894d.png/show",
+    "Dimensions": "112x102"
+  },
+  {
+    "Character": "Construct 8",
+    "File": "construct-8.png",
+    "Source": "https://img.game8.co/4295195/f81db960854615fa74816c0b4d056821.png/show",
+    "Dimensions": "112x102"
+  },
+  {
+    "Character": "Beowulf",
+    "File": "beowulf.png",
+    "Source": "https://img.game8.co/4293427/a82ea74eb2997249a9f6bbc4a2cc5ca5.png/show",
+    "Dimensions": "112x102"
+  },
+  {
+    "Character": "Byblos",
+    "File": "byblos.png",
+    "Source": "https://img.game8.co/4295196/c3c203fc62d856dc108b24d434130567.png/show",
+    "Dimensions": "112x102"
+  },
+  {
+    "Character": "Cloud",
+    "File": "cloud.png",
+    "Source": "https://img.game8.co/4292944/1b97de421e069082a7fd9ddb0dd92df9.png/show",
+    "Dimensions": "112x102"
+  },
+  {
+    "Character": "Meliadoul",
+    "File": "meliadoul.png",
+    "Source": "https://img.game8.co/4293430/32c6d6ba28b9d4e6c6a5039381924322.png/show",
+    "Dimensions": "112x102"
+  }
+]
