@@ -553,7 +553,8 @@ table th,table td{vertical-align:middle!important}</style>
   .job-picker-columns{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
   .job-picker-column{min-width:0;display:grid;grid-template-rows:auto repeat(3,1fr) auto;gap:14px}
   .job-picker-tier{min-width:0}
-  .job-picker-tier h3{margin:0 0 9px;padding-bottom:7px;border-bottom:1px solid var(--line);color:var(--gold);font-family:Georgia,"Times New Roman",serif;font-size:14px;font-weight:400}
+  .job-picker-tier h3{margin:0 0 9px;padding-bottom:0;border-bottom:0;color:var(--gold);font-family:Georgia,"Times New Roman",serif;font-size:14px;font-weight:400}
+  .job-picker-tier+.job-picker-tier{border-top:1px solid var(--line);padding-top:14px}
   .job-picker-column .job-picker-options{grid-template-columns:repeat(2,minmax(0,1fr))}
   @media(max-width:760px){.job-picker-column .job-picker-options{grid-template-columns:minmax(0,1fr)}}
   @media(max-width:760px){.job-picker-columns{gap:8px}.job-picker-column{padding:8px}}
